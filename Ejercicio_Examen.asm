@@ -120,17 +120,17 @@ TABLA_DECO_CC
     ADDWF	PCL, F		    ;TABLA, COLOCAMOS LOS VALORES AHI ABAJO Y LISTAKI, SE DEVUELVE AL MEJOR ESTILO TABLA
     RETFW	0x3F
     
-NTecla
-    1
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-    
+;NTecla
+;    1
+;    2
+;    3
+;    4
+;    5
+;    6
+;    7
+;    8
+;    9
+;    
     
     
     
